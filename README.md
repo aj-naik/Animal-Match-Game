@@ -7,4 +7,6 @@ A basic game to match animal pictures from a 4x4  masked grid created using pyga
 # Running it
 - Run app.py from command line or any IDE or run the app.exe in dist folder.
 
+Code is in 'src' directory
+
 Did this project in 2020 as a way to learn about pygame and creating games with it. Also learnt a bit about OOP in python.
